@@ -1,0 +1,14 @@
+description: fastlane Plugin Template
+variables:
+  - name: PLUGIN_NAME
+    displayName: Plugin Name
+  - name: CAPITALIZED_PLUGIN_NAME
+    displayName: Capitalized Plugin Name
+  - name: AUTHOR
+    displayName: Author
+  - name: EMAIL
+    displayName: Email
+  - name: SUMMARY
+    displayName: Summary
+  - name: GITHUB_USERNAME
+    displayName: GitHub Username
