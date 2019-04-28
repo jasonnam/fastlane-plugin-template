@@ -12,3 +12,5 @@ variables:
     displayName: Summary
   - name: GITHUB_USERNAME
     displayName: GitHub Username
+posthooks:
+  - git_init.sh
