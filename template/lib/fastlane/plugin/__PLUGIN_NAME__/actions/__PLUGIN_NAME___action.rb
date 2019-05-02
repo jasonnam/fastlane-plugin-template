@@ -1,5 +1,5 @@
-require 'fastlane/action'
-require_relative '../helper/__PLUGIN_NAME___helper'
+require "fastlane/action"
+require_relative "../helper/__PLUGIN_NAME___helper"
 
 module Fastlane
   module Actions
