@@ -2,6 +2,6 @@ language: ruby
 deploy:
   provider: rubygems
   gem: fastlane-plugin-__PLUGIN_NAME__
-  api_key: $RUBYGEMS_API_KEY
+  api_key: "$RUBYGEMS_API_KEY"
   on:
     branch: master
